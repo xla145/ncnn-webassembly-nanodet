@@ -10,6 +10,9 @@ open https://nihui.github.io/ncnn-webassembly-nanodet and enjoy
 
 # build and deploy
 
+
+
+
 1. Install emscripten
 
 ```shell
